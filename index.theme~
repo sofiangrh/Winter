@@ -1,11 +1,12 @@
+
 [Desktop Entry]
-Name=Winter
+Name=GT4
 Type=X-GNOME-Metatheme
-Comment=Moder Style theme
+Comment=Aqua style theme
 Encoding=UTF-8
 
 Name[en_US]=Winter
 
 [X-GNOME-Metatheme]
-GtkTheme=Winter
-MetacityTheme=Winter
+GtkTheme=GT4
+MetacityTheme=GT4
