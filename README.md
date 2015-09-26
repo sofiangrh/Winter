@@ -1,5 +1,5 @@
 # Description:
-Theme name is Winter, as usual, this is pixmap theme, and needs pixbuf engine installed. Winter sporting neutral interface with colored widgets like radio and check boxes, progress bar etc. Enjoy :)
+Theme name is Winter, as usual, this is pixmap theme, and needs pixbuf engine installed. Winter sporting neutral interface with colored widgets like radio, check boxes, progress bar etc. Enjoy :)
 
 # Screenshot
 <img src="http://gnome-look.org/CONTENT/content-pre1/122010-1.jpg" height="480" width="640">
